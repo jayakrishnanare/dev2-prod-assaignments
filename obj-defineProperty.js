@@ -17,3 +17,15 @@ Object.defineProperty(obj1,'property2',{
 
 obj1.property2 = "good aternoon";
 console.log(obj1.property2)
+
+
+//
+
+const obj2 = {};
+
+Object.defineProperty(obj2,'property',{
+    value: "bhargav thakkelapati",
+    writable:true
+});
+
+console.log(obj2.property)
