@@ -1,0 +1,1 @@
+//object.isPrototypeOf ->  method checks if an object exists in another object's prototype chain
